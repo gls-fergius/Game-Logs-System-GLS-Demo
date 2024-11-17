@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.6",
+	"FriendlyName": "Game Logs System (GLS) Demo",
+	"Description": "The Game Logs System (GLS) Demo is an advanced logging system. Its intelligent filtering, numerous configuration options, and ease of use will help you with development, testing, and debugging.",
+	"Category": "Runtime",
+	"CreatedBy": "Terro Fergius",
+	"CreatedByURL": "",
+	"DocsURL": "https://fergius-engineering.gitbook.io/gamelogssystem/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/368bbb09622040d9817c5f01e8ef3557",
+	"SupportURL": "mailto:gamelogssystem@gmail.com",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "GLSDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "GLSDemoEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
