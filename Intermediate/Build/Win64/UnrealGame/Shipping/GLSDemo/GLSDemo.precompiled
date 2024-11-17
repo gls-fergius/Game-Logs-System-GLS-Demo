@@ -1,0 +1,30 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\Module.GLSDemo.1.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\Module.GLSDemo.2.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLS.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSOutputDevice.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSSettings.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSCustomCategoryModel.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSLogInfoObject.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSLogModelsPoolSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSOverlaySubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSSaveSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSTypes.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSCategoriesWidgetBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSClassNamesWidgetBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSCustomCategoriesWidgetBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSGategoryTextItemWidget.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSListView.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSLogItemBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSMultiLineEditableText.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSObjectNamesWidgetBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSOverlayWidgetBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSOverlayWithTabsWidgetBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSTagsWidgetBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSWidgetBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSSaveSystemUtils.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\GLSDemo\\GLSUtils.cpp.obj"
+	]
+}
