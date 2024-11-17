@@ -2,6 +2,7 @@
 ![Unreal Engine Version](https://img.shields.io/badge/UE-5.2%20%7C%205.3%20%7C%205.4%20%7C%205.5-blue)
 
 The demo version of GLS is intended for use on Windows, available only in development and debug builds. The source code is not available, and it cannot be compiled independently. The demo version works in the editor and in built games, but only on Windows.
+Important: The demo version of the GLS plugin is compatible only with the engine downloaded from the Epic Games Launcher. The plugin will not work with a version of the engine compiled from source.
 
 # Game Logs System (GLS) full version
 [Fab marketplace link](https://fab.com/s/43bbed079742)
