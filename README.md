@@ -2,7 +2,6 @@
 ![Unreal Engine Version](https://img.shields.io/badge/UE-5.2%20%7C%205.3%20%7C%205.4%20%7C%205.5-blue)
 
 The demo version of GLS is intended for use on Windows, available only in development and debug builds. The source code is not available, and it cannot be compiled independently. The demo version works in the editor and in built games, but only on Windows.
-Important: The demo version of the GLS plugin is compatible only with the engine downloaded from the Epic Games Launcher. The plugin will not work with a version of the engine compiled from source.
 
 # Game Logs System (GLS) full version
 [Fab marketplace link](https://fab.com/s/43bbed079742)
@@ -24,7 +23,8 @@ Follow these steps to install the demo plugin:
 
 2. Download or clone the repository to your local machine.
 
-3. Copy the plugin files to the following directory: **\Engine\Plugins\Marketplace\GameLogsSystemDemo**
+3. Extract the archive to the following directory:
+**\Engine\Plugins\Marketplace\GameLogsSystemDemo**
 (Ensure the folder structure matches this path in your Unreal Engine installation directory.)
 Attention, the plugin must be placed in the engine, not in your project. If you place it in the project, not in the engine, you will not be able to run the project, because the plugin is distributed without the source code.
 

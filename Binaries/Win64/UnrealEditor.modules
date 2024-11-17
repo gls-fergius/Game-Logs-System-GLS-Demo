@@ -1,0 +1,8 @@
+{
+	"BuildId": "25360045",
+	"Modules": 
+	{
+		"GLSDemo": "UnrealEditor-GLSDemo.dll",
+		"GLSDemoEditor": "UnrealEditor-GLSDemoEditor.dll"
+	}
+}
