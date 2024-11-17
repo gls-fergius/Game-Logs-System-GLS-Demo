@@ -24,8 +24,7 @@ Follow these steps to install the demo plugin:
 
 2. Download or clone the repository to your local machine.
 
-3. Extract the archive to the following directory:
-**\Engine\Plugins\Marketplace\GameLogsSystemDemo**
+3. Copy the plugin files to the following directory: **\Engine\Plugins\Marketplace\GameLogsSystemDemo**
 (Ensure the folder structure matches this path in your Unreal Engine installation directory.)
 Attention, the plugin must be placed in the engine, not in your project. If you place it in the project, not in the engine, you will not be able to run the project, because the plugin is distributed without the source code.
 
