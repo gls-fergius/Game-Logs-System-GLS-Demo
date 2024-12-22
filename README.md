@@ -1,6 +1,15 @@
 # Game Logs System (GLS) Demo
 ![Unreal Engine Version](https://img.shields.io/badge/UE-5.2%20%7C%205.3%20%7C%205.4%20%7C%205.5-blue)
 
+# Description
+**Game Logs System (GLS)** is a plugin for Unreal Engine, designed for programmers and testers to help analyze logs both in the editor and at runtime during program execution on any device and platform. GLS allows you to collect logs from both the game and the engine, filter them by categories, classes, objects or custom tags.
+
+The main goal of the plugin is to provide the ability to analyze logs on any platform in real time. Control is possible from the keyboard, joystick or touchpad.
+The plugin is designed with an emphasis on high performance and ease of use, despite the potential large number of logs in the system.
+
+The plugin is suitable for both small indie games and large AAA studios with a high load.
+
+# Description of the Demo
 The demo version of GLS is intended for use on Windows, available only in development and debug builds. The source code is not available, and it cannot be compiled independently. The demo version works in the editor and in built games, but only on Windows.
 Important: The demo version of the GLS plugin is compatible only with the engine downloaded from the Epic Games Launcher. The plugin will not work with a version of the engine compiled from source.
 
@@ -24,14 +33,6 @@ Go to Edit -> Plugins. Locate "Game Logs System (GLS) Demo" in the list and enab
 [Fab marketplace link](https://fab.com/s/43bbed079742)
 
 Full Version of GLS is available for all platforms, supports independent compilation, and has no usage restrictions.
-
-# Description
-**Game Logs System (GLS)** is a plugin for Unreal Engine, designed for programmers and testers to help analyze logs both in the editor and at runtime during program execution on any device and platform. GLS allows you to collect logs from both the game and the engine, filter them by categories, classes, objects or custom tags.
-
-The main goal of the plugin is to provide the ability to analyze logs on any platform in real time. Control is possible from the keyboard, joystick or touchpad.
-The plugin is designed with an emphasis on high performance and ease of use, despite the potential large number of logs in the system.
-
-The plugin is suitable for both small indie games and large AAA studios with a high load.
 
 # Usage Examples
 The GLS plugin provides several C++ macros and functions to streamline logging with tags, categories, and verbosity settings.
